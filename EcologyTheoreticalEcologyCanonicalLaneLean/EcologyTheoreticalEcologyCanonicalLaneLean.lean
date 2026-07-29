@@ -1,0 +1,16 @@
+import EcologyTheoreticalEcologyCanonicalLaneLean.AdmissibleClass
+import EcologyTheoreticalEcologyCanonicalLaneLean.PopulationDynamics
+import EcologyTheoreticalEcologyCanonicalLaneLean.CompetitiveExclusion
+import EcologyTheoreticalEcologyCanonicalLaneLean.MetapopulationTheory
+import EcologyTheoreticalEcologyCanonicalLaneLean.EcosystemStability
+import EcologyTheoreticalEcologyCanonicalLaneLean.FoodWebStructure
+import EcologyTheoreticalEcologyCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace EcologyTheoreticalEcologyCanonicalLaneLean
+
+-- Root module for Ecology Theoretical Ecology Canonical Lane Lean package.
+-- All submodules are imported above.
+
+end EcologyTheoreticalEcologyCanonicalLaneLean
+end HautevilleHouse
